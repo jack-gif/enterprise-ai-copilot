@@ -1,0 +1,14 @@
+fastapi 
+uvicorn 
+langchain 
+langgraph 
+faiss-cpu 
+python-dotenv 
+httpx 
+google-generativeai 
+langchain-google-genai 
+tenacity 
+langsmith
+langchain-text-splitters
+langchain-core
+google-genai

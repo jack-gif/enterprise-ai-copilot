@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Logs
+*.log
+*.out
+*.tmp
+
+# AI/ML model files
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.keras
+
+# Datasets
+*.csv
+*.tsv
+*.json
+*.parquet
+*.zip
+*.tar
+*.gz
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
