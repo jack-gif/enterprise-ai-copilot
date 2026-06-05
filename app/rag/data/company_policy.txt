@@ -1,0 +1,10 @@
+Wire Transfer Compliance Policy
+
+1. Transactions above $10,000 require dual approval.
+2. OFAC validation is mandatory for all international wires.
+3. Failed transactions must be reviewed within 2 hours.
+4. KYC verification is required before wire processing.
+5. Suspicious activity must be escalated immediately.
+6. OFAC compliance ensures...
+7. Wire transfer rules include...
+8. KYC validation requires...
